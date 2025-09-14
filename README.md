@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Siddhu580
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Siddhu580 – Cybersecurity Learner | eJPT Prep
 
-<!---
-Siddhu580/Siddhu580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am learning penetration testing and ethical hacking as part of my eJPT journey.
+I document practical exercises, passive reconnaissance experiments, and tools I use to improve my skills.
+
+## Learning Exercises
+- [Passive Recon](./eJPT-Exercises/passive-recon) – robots.txt, sitemap.xml analysis
+- [CMS Detection](./eJPT-Exercises/cms-detection) – WhatWeb, BuiltWith experiments
+
+## Tools & Techniques
+- Passive Recon: robots.txt, sitemap.xml
+- CMS Fingerprinting: WhatWeb, BuiltWith
+- HTTP Analysis: curl, browser dev tools
+- Documentation: Markdown, GitHub
