@@ -15,6 +15,10 @@
 </p>
 
 * CompTIA Security+ (Score: 781)
+<p align = "middle">
+  <a href="https://certs.ine.com/f3077e85-5abc-4e0d-ae87-ad8addb76a01#acc.t0NFXzkh">
+  <img src="https://assets.ine.com/certifications/badges/eJPT.png" width = "120"/>
+  </a>
 * eJPT (97%)
 
 ---
