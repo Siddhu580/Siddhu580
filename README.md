@@ -13,12 +13,13 @@
     <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="120"/>
   </a>
 </p>
-
-* CompTIA Security+ (Score: 781)
 <p align = "middle">
   <a href="https://certs.ine.com/f3077e85-5abc-4e0d-ae87-ad8addb76a01#acc.t0NFXzkh">
   <img src="https://assets.ine.com/certifications/badges/eJPT.png" width = "120"/>
   </a>
+</p>
+
+* CompTIA Security+ (Score: 781)
 * eJPT (97%)
 
 ---
